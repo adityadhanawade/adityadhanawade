@@ -2,7 +2,7 @@
 
 I'm based in Pune, working across **full-stack web development**, **Android development**, and **UI/UX design**.
 
-- 🚀 Designed and built **[The Leverage Report](https://github.com/adityadhanawade/leverage-report-website)** solo, end to end — a free AI-money toolkit web app: full Figma UX process (personas, wireframes, design system, prototype) → a deployed Next.js/React/TypeScript app with 4 interactive tools, an accessibility audit, and a live email backend. **[Live site →](https://leverage-report-website.vercel.app)**
+- 🚀 Designed and built **[The Leverage Report](https://github.com/adityadhanawade/leverage-report-website)** solo, end to end – a free AI-money toolkit web app: full Figma UX process (personas, wireframes, design system, prototype) → a deployed Next.js/React/TypeScript app with 4 interactive tools, an accessibility audit, and a live email backend. **[Live site →](https://theleveragereport.me)**
 - 🔭 Built **[vehicle-automation-app](https://github.com/adityadhanawade/vehicle-automation-app)** — an Android app for vehicle automation (Kotlin/Java), built as a diploma team project
 - 🎨 Completed a **UI/UX design internship** at [Thiranex](https://github.com/adityadhanawade/uiux-internship-thiranex) — wireframes, mockups, and prototyping work
 - 💬 Ask me about full-stack web dev, Android development, or UI/UX design
