@@ -7,8 +7,8 @@
 Third-year B.Tech CSE student working across full-stack web development and UI/UX design. I take products through the whole process, research, design, and code, rather than working from a handoff.
 
 🔭 Currently building [The Leverage Report](https://theleveragereport.me), a free AI-money toolkit
-🌱 Currently deepening TypeScript and Android/Kotlin
-📫 Reach me at [avdhanawade94@gmail.com](mailto:avdhanawade94@gmail.com)
+<br>🌱 Currently deepening TypeScript and Android/Kotlin
+<br>📫 Reach me at [avdhanawade94@gmail.com](mailto:avdhanawade94@gmail.com)
 
 ---
 
@@ -24,11 +24,11 @@ Third-year B.Tech CSE student working across full-stack web development and UI/U
 ## Experience
 
 **UI/UX Design Intern, Thiranex**
-Wireframes, a heuristic redesign against Nielsen's usability heuristics, and moderated usability testing across four project modules.
-[View deliverables](https://github.com/adityadhanawade/uiux-internship-thiranex)
+<br>Wireframes, a heuristic redesign against Nielsen's usability heuristics, and moderated usability testing across four project modules.
+<br>[View deliverables](https://github.com/adityadhanawade/uiux-internship-thiranex)
 
 **Independent Projects**
-Designed and shipped [The Leverage Report](https://theleveragereport.me) solo, end to end: Figma research and design system through to a deployed Next.js/TypeScript application. Submitted [The Caregiver Is Invisible](https://github.com/adityadhanawade/the-caregiver-is-invisible), a research-led case study, to the Zuntra UI/UX Design Awards 2026.
+<br>Designed and shipped [The Leverage Report](https://theleveragereport.me) solo, end to end: Figma research and design system through to a deployed Next.js/TypeScript application. Submitted [The Caregiver Is Invisible](https://github.com/adityadhanawade/the-caregiver-is-invisible), a research-led case study, to the Zuntra UI/UX Design Awards 2026.
 
 ## Featured Projects
 
