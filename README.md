@@ -67,13 +67,6 @@ Full-stack web developer (Next.js/React) &amp; UI/UX designer, based in Pune
 </tr>
 </table>
 
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityadhanawade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditya's GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadhanawade&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
-</p>
-
 <div align="center">
 <sub>Reach me at <a href="mailto:avdhanawade94@gmail.com">avdhanawade94@gmail.com</a></sub>
 </div>
