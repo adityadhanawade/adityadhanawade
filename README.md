@@ -1,76 +1,44 @@
-<div align="center">
-<img src="assets/banner.svg" alt="Aditya Dhanawade" width="100%">
-</div>
+# Aditya Dhanawade
 
-<p align="center">
-<a href="https://adityadhanawade.github.io/"><img src="https://img.shields.io/badge/Portfolio-adityadhanawade.github.io-7c5cff?style=flat-square" alt="Portfolio"></a>
-<a href="https://theleveragereport.me"><img src="https://img.shields.io/badge/Live_Project-The_Leverage_Report-7c5cff?style=flat-square" alt="The Leverage Report"></a>
-<a href="https://www.linkedin.com/in/aditya-dhanawade-07004a317/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:avdhanawade94@gmail.com"><img src="https://img.shields.io/badge/Email-avdhanawade94%40gmail.com-7c5cff?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+**Full-Stack Developer (Next.js/React) · UI/UX Designer** · Pune, India
 
-### About
+[Portfolio](https://adityadhanawade.github.io/) · [LinkedIn](https://www.linkedin.com/in/aditya-dhanawade-07004a317/) · [Email](mailto:avdhanawade94@gmail.com) · [The Leverage Report](https://theleveragereport.me)
 
-<ul>
-<li>Third-year B.Tech CSE student in Pune, working across full-stack web development, Android development, and UI/UX design</li>
-<li>🚀 Designed and built <a href="https://theleveragereport.me">The Leverage Report</a> solo, end to end: full Figma UX process into a deployed Next.js/React/TypeScript app with 4 interactive tools and a live email backend</li>
-<li>🏆 Submitted <a href="https://github.com/adityadhanawade/the-caregiver-is-invisible">The Caregiver Is Invisible</a> to the Zuntra UI/UX Design Awards 2026: 5 caregiver interviews, a 12-screen Figma prototype, and two rounds of usability testing</li>
-<li>💬 Ask me about full-stack web dev, Android development, or UI/UX design</li>
-</ul>
+Third-year B.Tech CSE student working across full-stack web development and UI/UX design. I take products through the whole process, research, design, and code, rather than working from a handoff.
 
-### Tech Stack
+🔭 Currently building [The Leverage Report](https://theleveragereport.me), a free AI-money toolkit
+🌱 Currently deepening TypeScript and Android/Kotlin
+📫 Reach me at [avdhanawade94@gmail.com](mailto:avdhanawade94@gmail.com)
 
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-</p>
+---
 
-### GitHub Streak
+## Skills
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=adityadhanawade&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
-</p>
+| Category | Stack |
+|---|---|
+| Languages | TypeScript, JavaScript, Kotlin, Java |
+| Frontend | React, Next.js, Tailwind CSS |
+| Design | Figma (design systems, prototyping, usability testing) |
+| Platforms | Android, Firebase |
 
-### Featured Projects
+## Experience
 
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Links</th>
-</tr>
-<tr>
-<td><b>The Leverage Report</b></td>
-<td>Free AI-Money Toolkit, Next.js/React/TypeScript, 4 interactive tools, full UI/UX + engineering process</td>
-<td><a href="https://theleveragereport.me">Live</a> / <a href="https://github.com/adityadhanawade/leverage-report-website">Code</a></td>
-</tr>
-<tr>
-<td><b>The Caregiver Is Invisible</b></td>
-<td>Zuntra UI/UX Design Awards 2026 entry, research-led case study, Figma prototype, usability testing</td>
-<td><a href="https://github.com/adityadhanawade/the-caregiver-is-invisible">Case study</a></td>
-</tr>
-<tr>
-<td><b>Vehicle Automation App</b></td>
-<td>Android app for vehicle automation, Kotlin, Java</td>
-<td><a href="https://github.com/adityadhanawade/vehicle-automation-app">Code</a></td>
-</tr>
-<tr>
-<td><b>UI/UX Internship, Thiranex</b></td>
-<td>Internship deliverables, wireframes, mockups, prototypes</td>
-<td><a href="https://github.com/adityadhanawade/uiux-internship-thiranex">Deliverables</a></td>
-</tr>
-</table>
+**UI/UX Design Intern, Thiranex**
+Wireframes, a heuristic redesign against Nielsen's usability heuristics, and moderated usability testing across four project modules.
+[View deliverables](https://github.com/adityadhanawade/uiux-internship-thiranex)
 
-<div align="center">
-<sub>
-<img src="https://komarev.com/ghpvc/?username=adityadhanawade&color=7c5cff&style=flat-square&label=Profile+Views" alt="Profile views">
-</sub>
-<br><br>
-<sub>Reach me at <a href="mailto:avdhanawade94@gmail.com">avdhanawade94@gmail.com</a></sub>
-</div>
+**Independent Projects**
+Designed and shipped [The Leverage Report](https://theleveragereport.me) solo, end to end: Figma research and design system through to a deployed Next.js/TypeScript application. Submitted [The Caregiver Is Invisible](https://github.com/adityadhanawade/the-caregiver-is-invisible), a research-led case study, to the Zuntra UI/UX Design Awards 2026.
+
+## Featured Projects
+
+| Project | Stack | Description | Link |
+|---|---|---|---|
+| **The Leverage Report** | Next.js · TypeScript · Tailwind CSS | Free AI-money toolkit built solo end to end: 4 interactive tools, an accessibility audit, and a live email backend | [Live](https://theleveragereport.me) · [Code](https://github.com/adityadhanawade/leverage-report-website) |
+| **The Caregiver Is Invisible** | Figma | Zuntra UI/UX Design Awards 2026 entry: 5 caregiver interviews, a 12-screen prototype, two rounds of usability testing | [Case study](https://github.com/adityadhanawade/the-caregiver-is-invisible) |
+| **UI/UX Internship, Thiranex** | Figma | Wireframes, heuristic redesign, and moderated usability testing across four modules | [Deliverables](https://github.com/adityadhanawade/uiux-internship-thiranex) |
+| **Vehicle Automation App** | Kotlin · Java · Firebase | Android app connecting vehicle owners with garages, built with three classmates | [Code](https://github.com/adityadhanawade/vehicle-automation-app) |
+
+## Education
+
+B.Tech, Computer Science & Engineering — in progress (3rd year)
