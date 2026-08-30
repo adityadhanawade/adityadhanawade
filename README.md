@@ -2,7 +2,7 @@
 
 **Full-Stack Developer (Next.js/React) · UI/UX Designer** · Pune, India
 
-[Site](https://adityadhanawade.github.io/) · [LinkedIn](https://www.linkedin.com/in/aditya-dhanawade-07004a317/) · [Email](mailto:avdhanawade94@gmail.com) · [The Leverage Report](https://theleveragereport.me)
+[LinkedIn](https://www.linkedin.com/in/aditya-dhanawade-07004a317/) · [Email](mailto:avdhanawade94@gmail.com) · [The Leverage Report](https://theleveragereport.me)
 
 Third-year B.Tech CSE student working across full-stack web development and UI/UX design. I take products through the whole process, research, design, and code, rather than working from a handoff.
 
