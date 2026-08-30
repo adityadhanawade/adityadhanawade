@@ -31,15 +31,10 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-### GitHub Stats
+### GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityadhanawade&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-<img src="https://streak-stats.demolab.com/?user=adityadhanawade&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadhanawade&theme=react-dark&hide_border=true&bg_color=0d0221&color=c9b8ff&line=8b5cf6&point=e9dfff" alt="Activity graph" width="100%">
+<img src="https://streak-stats.demolab.com/?user=adityadhanawade&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
 </p>
 
 ### Featured Projects
