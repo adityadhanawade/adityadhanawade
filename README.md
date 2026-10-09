@@ -1,44 +1,69 @@
-# Aditya Dhanawade
+<div align="center">
+<img src="assets/hero.svg" alt="Aditya Dhanawade. Full-stack developer and UI/UX designer. A transit map with a build line and a design line meeting at The Leverage Report." width="100%">
+</div>
 
-**Full-Stack Developer (Next.js/React) · UI/UX Designer** · Pune, India
+<br>
+
+Third-year B.Tech CSE student in Pune. I take a product from user research through design to a deployed build, so the interface and the code come from the same person.
 
 [LinkedIn](https://www.linkedin.com/in/aditya-dhanawade-07004a317/) · [Email](mailto:avdhanawade94@gmail.com) · [The Leverage Report](https://theleveragereport.me)
 
-Third-year B.Tech CSE student working across full-stack web development and UI/UX design. I take products through the whole process, research, design, and code, rather than working from a handoff.
+<img src="assets/divider.svg" alt="" width="100%">
 
-🔭 Currently building [The Leverage Report](https://theleveragereport.me), a free AI-money toolkit
-<br>🌱 Currently deepening TypeScript and Android/Kotlin
-<br>📫 Reach me at [avdhanawade94@gmail.com](mailto:avdhanawade94@gmail.com)
+## Projects
 
----
+Every project is a stop on one of two lines. Orange is build work, cream is design work.
 
-## Skills
+### Build line
 
-| Category | Stack |
-|---|---|
-| Languages | TypeScript, JavaScript, Kotlin, Java |
-| Frontend | React, Next.js, Tailwind CSS |
-| Design | Figma (design systems, prototyping, usability testing) |
-| Platforms | Android, Firebase |
+<a href="https://nagarnetra-dun.vercel.app"><img src="assets/card-nagarnetra.svg" alt="NagarNetra. Buses as moving city sensors. A phone on the dash detects road damage with YOLOv8 for a fleet dashboard. React, Vite, FastAPI, YOLOv8, Supabase." width="100%"></a>
 
-## Experience
+[Live demo](https://nagarnetra-dun.vercel.app) · [Code](https://github.com/adityadhanawade/nagarnetra)
 
-**UI/UX Design Intern, Thiranex**
-<br>Wireframes, a heuristic redesign against Nielsen's usability heuristics, and moderated usability testing across four project modules.
-<br>[View deliverables](https://github.com/adityadhanawade/uiux-internship-thiranex)
+<a href="https://ai-data-analyst-agent-snowy.vercel.app"><img src="assets/card-ai-data-analyst-agent.svg" alt="AI Data Analyst Agent. Ask a dataset questions in plain English; the agent writes pandas code, runs it, and fixes its own errors. Python, TypeScript, Strands Agents, Gemini." width="100%"></a>
 
-**Independent Projects**
-<br>Designed and shipped [The Leverage Report](https://theleveragereport.me) solo, end to end: Figma research and design system through to a deployed Next.js/TypeScript application. Submitted [The Caregiver Is Invisible](https://github.com/adityadhanawade/the-caregiver-is-invisible), a research-led case study, to the Zuntra UI/UX Design Awards 2026.
+[Live demo](https://ai-data-analyst-agent-snowy.vercel.app) · [Code](https://github.com/adityadhanawade/ai-data-analyst-agent) · The backend sleeps on a free tier, so the first request can take up to a minute.
 
-## Featured Projects
+<a href="https://theleveragereport.me"><img src="assets/card-leverage-report.svg" alt="The Leverage Report. A free AI-money toolkit with four interactive tools, designed and built solo from research to deployment. Next.js, TypeScript, Tailwind CSS." width="100%"></a>
 
-| Project | Stack | Description | Link |
-|---|---|---|---|
-| **The Leverage Report** | Next.js · TypeScript · Tailwind CSS | Free AI-money toolkit built solo end to end: 4 interactive tools, an accessibility audit, and a live email backend | [Live](https://theleveragereport.me) · [Code](https://github.com/adityadhanawade/leverage-report-website) |
-| **The Caregiver Is Invisible** | Figma | Zuntra UI/UX Design Awards 2026 entry: 5 caregiver interviews, a 12-screen prototype, two rounds of usability testing | [Case study](https://github.com/adityadhanawade/the-caregiver-is-invisible) |
-| **UI/UX Internship, Thiranex** | Figma | Wireframes, heuristic redesign, and moderated usability testing across four modules | [Deliverables](https://github.com/adityadhanawade/uiux-internship-thiranex) |
-| **Vehicle Automation App** | Kotlin · Java · Firebase | Android app connecting vehicle owners with garages, built with three classmates | [Code](https://github.com/adityadhanawade/vehicle-automation-app) |
+[Live site](https://theleveragereport.me) · [Code](https://github.com/adityadhanawade/leverage-report-website)
 
-## Education
+<a href="https://github.com/adityadhanawade/CivicFix-SIH2026"><img src="assets/card-civicfix.svg" alt="CivicFix. A civic complaint closes only with proof: the after-photo must match the report's GPS location. I led the team of six. Team Hex Coders, JSPM University, Pune." width="100%"></a>
 
-B.Tech, Computer Science & Engineering — in progress (3rd year)
+[Repository](https://github.com/adityadhanawade/CivicFix-SIH2026)
+
+### Design line
+
+<a href="https://github.com/adityadhanawade/the-caregiver-is-invisible"><img src="assets/card-caregiver.svg" alt="The Caregiver Is Invisible. A case study on designing for the adult child who coordinates a parent's care from far away. Figma, 5 interviews, 12 screens, 2 test rounds." width="100%"></a>
+
+[Case study](https://github.com/adityadhanawade/the-caregiver-is-invisible)
+
+<a href="https://github.com/adityadhanawade/vanguard-audio-design-marathon"><img src="assets/card-vanguard.svg" alt="Vanguard Audio. Brand identity and launch campaign for a fictional audio brand, done solo for the IIT Bhubaneswar design marathon." width="100%"></a>
+
+[Submission](https://github.com/adityadhanawade/vanguard-audio-design-marathon)
+
+**Other stops:** [UI/UX internship at Thiranex](https://github.com/adityadhanawade/uiux-internship-thiranex) (wireframes, a heuristic redesign, moderated usability testing) · [Vehicle Automation App](https://github.com/adityadhanawade/vehicle-automation-app) (Kotlin and Java, built with three classmates) · [Portfolio site](https://github.com/adityadhanawade/adityadhanawade.github.io)
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Activity
+
+<img src="assets/activity.svg" alt="Contribution calendar for the past 12 months." width="100%">
+
+Drawn from public contribution data by a small script, redrawn every Monday by [a workflow](.github/workflows/refresh-activity.yml).
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Toolkit
+
+<div align="center">
+<img src="assets/stack.svg" alt="Toolkit as two transit lines. Build line: TypeScript, React and Next.js, Tailwind CSS, Python and FastAPI, Kotlin and Java, Firebase and Supabase. Design line: Figma, design systems, user research, prototyping, usability testing, heuristic evaluation." width="700">
+</div>
+
+<br>
+
+<div align="center">
+<img src="assets/footer.svg" alt="End of the line. Open to internships in full-stack and UI/UX." width="100%">
+</div>
+
+<sub>Every graphic here is generated by [`scripts/build_assets.py`](scripts/build_assets.py). Edit the script, run it, commit the SVGs.</sub>
