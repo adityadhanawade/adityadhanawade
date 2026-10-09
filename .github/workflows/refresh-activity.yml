@@ -5,22 +5,30 @@ on:
     - cron: "0 3 * * 1"   # Mondays 03:00 UTC
   workflow_dispatch:
 
+# Least privilege: the job only needs to commit one file back to this repo.
 permissions:
   contents: write
+
+concurrency:
+  group: refresh-activity
+  cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install fonttools
+        run: pip install "fonttools==4.62.1"
       - name: Rebuild activity.svg
         env:
           GH_TOKEN: ${{ github.token }}
         run: python scripts/build_assets.py --activity-only
-      - name: Commit if changed
+      - name: Commit only if the chart changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

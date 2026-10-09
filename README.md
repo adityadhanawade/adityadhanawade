@@ -1,8 +1,4 @@
-<div align="center">
-<img src="assets/hero.svg" alt="Aditya Dhanawade. Full-stack developer and UI/UX designer. A transit map with a build line and a design line meeting at The Leverage Report." width="100%">
-</div>
-
-<br>
+<img src="assets/hero.svg" alt="Aditya Dhanawade. Full-stack developer and UI/UX designer. A transit map with a build line and a design line meeting at The Leverage Report." width="720">
 
 Third-year B.Tech CSE student in Pune. I take a product from user research through design to a deployed build, so the interface and the code come from the same person.
 
@@ -16,29 +12,29 @@ Every project is a stop on one of two lines. Orange is build work, cream is desi
 
 ### Build line
 
-<a href="https://nagarnetra-dun.vercel.app"><img src="assets/card-nagarnetra.svg" alt="NagarNetra. Buses as moving city sensors. A phone on the dash detects road damage with YOLOv8 for a fleet dashboard. React, Vite, FastAPI, YOLOv8, Supabase." width="100%"></a>
+<a href="https://nagarnetra-dun.vercel.app"><img src="assets/card-nagarnetra.svg" alt="NagarNetra. Buses as moving city sensors. A phone on the dash detects road damage with YOLOv8 for a fleet dashboard. React, Vite, FastAPI, YOLOv8, Supabase." width="720"></a>
 
 [Live demo](https://nagarnetra-dun.vercel.app) · [Code](https://github.com/adityadhanawade/nagarnetra)
 
-<a href="https://ai-data-analyst-agent-snowy.vercel.app"><img src="assets/card-ai-data-analyst-agent.svg" alt="AI Data Analyst Agent. Ask a dataset questions in plain English; the agent writes pandas code, runs it, and fixes its own errors. Python, TypeScript, Strands Agents, Gemini." width="100%"></a>
+<a href="https://ai-data-analyst-agent-snowy.vercel.app"><img src="assets/card-ai-data-analyst-agent.svg" alt="AI Data Analyst Agent. Ask a dataset questions in plain English; the agent writes pandas code, runs it, and fixes its own errors. Python, TypeScript, Strands Agents, Gemini." width="720"></a>
 
 [Live demo](https://ai-data-analyst-agent-snowy.vercel.app) · [Code](https://github.com/adityadhanawade/ai-data-analyst-agent) · The backend sleeps on a free tier, so the first request can take up to a minute.
 
-<a href="https://theleveragereport.me"><img src="assets/card-leverage-report.svg" alt="The Leverage Report. A free AI-money toolkit with four interactive tools, designed and built solo from research to deployment. Next.js, TypeScript, Tailwind CSS." width="100%"></a>
+<a href="https://theleveragereport.me"><img src="assets/card-leverage-report.svg" alt="The Leverage Report. A free AI-money toolkit with four interactive tools, designed and built solo from research to deployment. Next.js, TypeScript, Tailwind CSS." width="720"></a>
 
 [Live site](https://theleveragereport.me) · [Code](https://github.com/adityadhanawade/leverage-report-website)
 
-<a href="https://github.com/adityadhanawade/CivicFix-SIH2026"><img src="assets/card-civicfix.svg" alt="CivicFix. A civic complaint closes only with proof: the after-photo must match the report's GPS location. I led the team of six. Team Hex Coders, JSPM University, Pune." width="100%"></a>
+<a href="https://github.com/adityadhanawade/CivicFix-SIH2026"><img src="assets/card-civicfix.svg" alt="CivicFix. A civic complaint closes only with proof: the after-photo must match the report's GPS location. I led the team of six. Team Hex Coders, JSPM University, Pune." width="720"></a>
 
 [Repository](https://github.com/adityadhanawade/CivicFix-SIH2026)
 
 ### Design line
 
-<a href="https://github.com/adityadhanawade/the-caregiver-is-invisible"><img src="assets/card-caregiver.svg" alt="The Caregiver Is Invisible. A case study on designing for the adult child who coordinates a parent's care from far away. Figma, 5 interviews, 12 screens, 2 test rounds." width="100%"></a>
+<a href="https://github.com/adityadhanawade/the-caregiver-is-invisible"><img src="assets/card-caregiver.svg" alt="The Caregiver Is Invisible. A case study on designing for the adult child who coordinates a parent's care from far away. Figma, 5 interviews, 12 screens, 2 test rounds." width="720"></a>
 
 [Case study](https://github.com/adityadhanawade/the-caregiver-is-invisible)
 
-<a href="https://github.com/adityadhanawade/vanguard-audio-design-marathon"><img src="assets/card-vanguard.svg" alt="Vanguard Audio. Brand identity and launch campaign for a fictional audio brand, done solo for the IIT Bhubaneswar design marathon." width="100%"></a>
+<a href="https://github.com/adityadhanawade/vanguard-audio-design-marathon"><img src="assets/card-vanguard.svg" alt="Vanguard Audio. Brand identity and launch campaign for a fictional audio brand, done solo for the IIT Bhubaneswar design marathon." width="720"></a>
 
 [Submission](https://github.com/adityadhanawade/vanguard-audio-design-marathon)
 
@@ -48,7 +44,7 @@ Every project is a stop on one of two lines. Orange is build work, cream is desi
 
 ## Activity
 
-<img src="assets/activity.svg" alt="Contribution calendar for the past 12 months." width="100%">
+<img src="assets/activity.svg" alt="Contribution calendar for the past 12 months." width="720">
 
 Drawn from public contribution data by a small script, redrawn every Monday by [a workflow](.github/workflows/refresh-activity.yml).
 
@@ -56,14 +52,8 @@ Drawn from public contribution data by a small script, redrawn every Monday by [
 
 ## Toolkit
 
-<div align="center">
 <img src="assets/stack.svg" alt="Toolkit as two transit lines. Build line: TypeScript, React and Next.js, Tailwind CSS, Python and FastAPI, Kotlin and Java, Firebase and Supabase. Design line: Figma, design systems, user research, prototyping, usability testing, heuristic evaluation." width="700">
-</div>
 
-<br>
+<a href="mailto:avdhanawade94@gmail.com"><img src="assets/footer.svg" alt="End of the line. Open to internships in full-stack and UI/UX. Email me." width="720"></a>
 
-<div align="center">
-<img src="assets/footer.svg" alt="End of the line. Open to internships in full-stack and UI/UX." width="100%">
-</div>
-
-<sub>Every graphic here is generated by [`scripts/build_assets.py`](scripts/build_assets.py). Edit the script, run it, commit the SVGs.</sub>
+<sub>Every graphic here is generated by [`scripts/build_assets.py`](scripts/build_assets.py).</sub>
