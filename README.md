@@ -42,7 +42,7 @@ Every project is a stop on one of two lines. Orange is build work, cream is desi
 
 [Submission](https://github.com/adityadhanawade/vanguard-audio-design-marathon)
 
-**Other stops:** [UI/UX internship at Thiranex](https://github.com/adityadhanawade/uiux-internship-thiranex) (wireframes, a heuristic redesign, moderated usability testing) · [Vehicle Automation App](https://github.com/adityadhanawade/vehicle-automation-app) (Kotlin and Java, built with three classmates) · [Portfolio site](https://github.com/adityadhanawade/adityadhanawade.github.io)
+**Other stops:** [UI/UX internship at Thiranex](https://github.com/adityadhanawade/uiux-internship-thiranex) (wireframes, a heuristic redesign, moderated usability testing) · [Vehicle Automation App](https://github.com/adityadhanawade/vehicle-automation-app) (Kotlin and Java, built with three classmates)
 
 <img src="assets/divider.svg" alt="" width="100%">
 
